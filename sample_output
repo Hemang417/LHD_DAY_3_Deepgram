@@ -1,0 +1,225 @@
+// Requesting transcript...
+// Your file may take up to a couple minutes to process.
+// While you wait, did you know that Deepgram accepts over 40 audio file formats? Even MP4s.
+// To learn more about customizing your transcripts check out developers.deepgram.com.
+// PrerecordedTranscriptionResponse {
+//   metadata: {
+//     transaction_key: 'jJAB2kTUEwgzf0bRtSl6KYc+RxOW4vB/vVMEZ+hmHug+6ldqNxReuzKNP4wBNwwiYTAI0akdeyOb1zw+tVRkrbYv8uycBnSAPglOvhUImdo8ptKV8jVh4B3bElHAywNfjCETKiMc3lYIRvYVy0qNOclycVnHL8tP5EDe0AevWrM+jlAguBXJScj09d7ROPrUUOASgPQ6ZSyYYWKwDXTXptS2vcdseZJmzUbnakvkpHI142GjcFU66EiWLZ3+G5eoya7pPyoWax3miY6KtNlOv+Yc+EaGP4rnxQjgaNG6EigZFXHrX9BKEwII2rIaaCClx6RC1+UN90I3JtDA+DEINNs=',
+//     request_id: 'bf319ad4-acdf-487b-95a0-50713e5bdab1',
+//     sha256: '5324da68ede209a16ac69a38e8cd29cee4d754434a041166cda3a1f5e0b24566',
+//     created: '2022-01-12T10:18:34.684Z',
+//     duration: 17.56631,
+//     channels: 1,
+//     models: [ '41757536-6114-494d-83fd-c2694524d80b' ]
+//   },
+//   results: {
+//     channels: [
+//       {
+//         alternatives: [
+//           {
+//             transcript: "Yep. I said it before, and I'll say it again. Life moves pretty fast. You don't stop and look around once in a while. You could miss it.",
+//             confidence: 0.9897461,
+//             words: [
+//               {
+//                 word: 'yep',
+//                 start: 5.7,
+//                 end: 5.8599997,
+//                 confidence: 0.99560547,
+//                 punctuated_word: 'Yep.'
+//               },
+//               {
+//                 word: 'i',
+//                 start: 7.274305,
+//                 end: 7.433877,
+//                 confidence: 0.88427734,
+//                 punctuated_word: 'I'
+//               },
+//               {
+//                 word: 'said',
+//                 start: 7.433877,
+//                 end: 7.553556,
+//                 confidence: 0.7973633,
+//                 punctuated_word: 'said'
+//               },
+//               {
+//                 word: 'it',
+//                 start: 7.553556,
+//                 end: 7.9125934,
+//                 confidence: 0.984375,
+//                 punctuated_word: 'it'
+//               },
+//               {
+//                 word: 'before',
+//                 start: 7.9125934,
+//                 end: 7.9923797,
+//                 confidence: 0.99902344,
+//                 punctuated_word: 'before,'
+//               },
+//               {
+//                 word: 'and',
+//                 start: 8.0721655,
+//                 end: 8.112059,
+//                 confidence: 0.9946289,
+//                 punctuated_word: 'and'
+//               },
+//               {
+//                 word: "i'll",
+//                 start: 8.191845,
+//                 end: 8.39131,
+//                 confidence: 0.9848633,
+//                 punctuated_word: "I'll"
+//               },
+//               {
+//                 word: 'say',
+//                 start: 8.39131,
+//                 end: 8.471096,
+//                 confidence: 0.9995117,
+//                 punctuated_word: 'say'
+//               },
+//               {
+//                 word: 'it',
+//                 start: 8.471096,
+//                 end: 8.750347,
+//                 confidence: 0.9614258,
+//                 punctuated_word: 'it'
+//               },
+//               {
+//                 word: 'again',
+//                 start: 8.750347,
+//                 end: 9.250347,
+//                 confidence: 0.99902344,
+//                 punctuated_word: 'again.'
+//               },
+//               {
+//                 word: 'life',
+//                 start: 10.146605,
+//                 end: 10.465748,
+//                 confidence: 0.9980469,
+//                 punctuated_word: 'Life'
+//               },
+//               {
+//                 word: 'moves',
+//                 start: 10.465748,
+//                 end: 10.705107,
+//                 confidence: 0.9975586,
+//                 punctuated_word: 'moves'
+//               },
+//               {
+//                 word: 'pretty',
+//                 start: 10.705107,
+//                 end: 11.14393,
+//                 confidence: 0.99902344,
+//                 punctuated_word: 'pretty'
+//               },
+//               {
+//                 word: 'fast',
+//                 start: 11.14393,
+//                 end: 11.502968,
+//                 confidence: 1,
+//                 punctuated_word: 'fast.'
+//               },
+//               {
+//                 word: 'you',
+//                 start: 12.221043,
+//                 end: 12.340721,
+//                 confidence: 0.99560547,
+//                 punctuated_word: 'You'
+//               },
+//               {
+//                 word: "don't",
+//                 start: 12.340721,
+//                 end: 12.619972,
+//                 confidence: 0.99365234,
+//                 punctuated_word: "don't"
+//               },
+//               {
+//                 word: 'stop',
+//                 start: 12.619972,
+//                 end: 12.819438,
+//                 confidence: 0.99902344,
+//                 punctuated_word: 'stop'
+//               },
+//               {
+//                 word: 'and',
+//                 start: 12.819438,
+//                 end: 12.939117,
+//                 confidence: 0.99560547,
+//                 punctuated_word: 'and'
+//               },
+//               {
+//                 word: 'look',
+//                 start: 12.939117,
+//                 end: 13.218369,
+//                 confidence: 0.9941406,
+//                 punctuated_word: 'look'
+//               },
+//               {
+//                 word: 'around',
+//                 start: 13.218369,
+//                 end: 13.457727,
+//                 confidence: 0.99853516,
+//                 punctuated_word: 'around'
+//               },
+//               {
+//                 word: 'once',
+//                 start: 13.457727,
+//                 end: 13.657192,
+//                 confidence: 0.99365234,
+//                 punctuated_word: 'once'
+//               },
+//               {
+//                 word: 'in',
+//                 start: 13.657192,
+//                 end: 13.736979,
+//                 confidence: 0.9394531,
+//                 punctuated_word: 'in'
+//               },
+//               {
+//                 word: 'a',
+//                 start: 13.736979,
+//                 end: 13.856657,
+//                 confidence: 0.91308594,
+//                 punctuated_word: 'a'
+//               },
+//               {
+//                 word: 'while',
+//                 start: 13.856657,
+//                 end: 14.175802,
+//                 confidence: 0.9633789,
+//                 punctuated_word: 'while.'
+//               },
+//               {
+//                 word: 'you',
+//                 start: 14.780337,
+//                 end: 14.939818,
+//                 confidence: 0.99902344,
+//                 punctuated_word: 'You'
+//               },
+//               {
+//                 word: 'could',
+//                 start: 14.939818,
+//                 end: 15.0992985,
+//                 confidence: 0.99560547,
+//                 punctuated_word: 'could'
+//               },
+//               {
+//                 word: 'miss',
+//                 start: 15.0992985,
+//                 end: 15.29865,
+//                 confidence: 0.9897461,
+//                 punctuated_word: 'miss'
+//               },
+//               {
+//                 word: 'it',
+//                 start: 15.29865,
+//                 end: 15.45813,
+//                 confidence: 0.99658203,
+//                 punctuated_word: 'it.'
+//               }
+//             ]
+//           }
+//         ]
+//       }
+//     ]
+//   }
+// }
