@@ -1,0 +1,23 @@
+{
+  "name": "lhd_day_3_deepgram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemang417/LHD_DAY_3_Deepgram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemang417/LHD_DAY_3_Deepgram/issues"
+  },
+  "homepage": "https://github.com/Hemang417/LHD_DAY_3_Deepgram#readme",
+  "dependencies": {
+    "@deepgram/sdk": "^1.1.0"
+  }
+}
